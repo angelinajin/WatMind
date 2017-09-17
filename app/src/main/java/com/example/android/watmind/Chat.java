@@ -55,7 +55,7 @@ public class Chat extends AppCompatActivity {
 
                 if (!messageText.equals("")) {
                     Map<String, String> map = new HashMap<String, String>();
-                    map.put("message", messageText);
+                    map.put("messages", messageText);
                     //map.put("user", UserDetails.username);
                     reference1.push().setValue(map);
                     reference2.push().setValue(map);
