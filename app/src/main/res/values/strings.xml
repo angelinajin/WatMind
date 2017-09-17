@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WatMind</string>
+    <string name="counselling_button">Counselling</string>
+    <string name="discussion_button">Discussion</string>
+    <string name="goals_button">Goals</string>
+
+    <string name="arrow_left">&#60;</string>
+    <string name="arrow_right">&#62;</string>
+
+    <string name="placeholder">I am in charge of how I feel, and today, I am choosing happiness.</string>
+
+    <string name="positive_affirmations">3 Positive Affirmations</string>
+    <string name="complete_daily"> Complete the daily activities to improve your mental health!</string>
+    <string name="sleep">7-9 Hours of Sleep</string>
+    <string name="physical">30 Minutes of Physical Activity</string>
+    <string name="kindness">Random Act of Kindness</string>
+
+    <string-array
+        name="opening_messages">
+        <item>I am in charge of how I feel, and today, I am choosing happines.</item>
+        <item>I love myself, and I will allow myself to be loved fully.</item>
+        <item>1 in 5 Canadians experience mental health or addiction. You are not alone.</item>
+        <item>I am in the process of becoming the best version of myself.</item>
+        <item>My ability to conquer challenges is limitless. My potential to succeed is infinite.</item>
+        <item>Today I will let go of the past that I do not need and creat the future that I want.</item>
+        <item>I will face whatever comes today with a positive attitude.</item>
+        <item>Worrying is using your imagination to create things you do not want.</item>
+        <item>Do more of what makes you happy.</item>
+        <item>Positive thoughts generate positive feelings and attract positive life experiences.</item>
+    </string-array>
+
+
+
+</resources>
